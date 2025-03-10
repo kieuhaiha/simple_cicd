@@ -1,5 +1,7 @@
 # Basic CI/CD
 
+> Project work report is available in the file [report.md](./src/report.md)
+
 Development of a simple **CI/CD** for the *SimpleBashUtils* project. Building, testing, deployment.
 
 The russian version of the task can be found in the repository.
